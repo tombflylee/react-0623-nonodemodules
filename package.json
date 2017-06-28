@@ -26,6 +26,7 @@
     "precss": "^1.4.0",
     "react-addons-test-utils": "^15.5.1",
     "react-hot-loader": "^3.0.0-beta.7",
+    "react-lifecycle": "^1.0.0",
     "react-scripts": "^1.0.2",
     "style-loader": "^0.18.1",
     "webpack": "^2.6.1",

@@ -1,3 +1,6 @@
 state:
   tabListResult:
     list(Array):
+      title
+      key
+      content
